@@ -22,16 +22,14 @@ Simulação visual de um perfil do Instagram com foco em análise de:
 ## 🗂️ Arquivos
 
 ([./caminho/]([seguidores.json](https://github.com/user-attachments/files/20230408/seguidores.json))
-[postagens.json](https://github.com/user-attachments/files/20230407/postagens.json)
-[nome_completo.json](https://github.com/user-attachments/files/20230406/nome_completo.json)
-[curtidas.json](https://github.com/user-attachments/files/20230401/curtidas.json)
-[comentarios.json](https://github.com/user-attachments/files/20230400/comentarios.json)
-[bio.json](https://github.com/user-attachments/files/20230399/bio.json)
-[usuario.json](https://github.com/user-attachments/files/20230398/usuario.json)
-[seguindo.json](https://github.com/user-attachments/files/20230397/seguindo.json)
+> [postagens.json](https://github.com/user-attachments/files/20230407/postagens.json)
+> [nome_completo.json](https://github.com/user-attachments/files/20230406/nome_completo.json)
+> [curtidas.json](https://github.com/user-attachments/files/20230401/curtidas.json)
+> [comentarios.json](https://github.com/user-attachments/files/20230400/comentarios.json)
+> [bio.json](https://github.com/user-attachments/files/20230399/bio.json)
+> [usuario.json](https://github.com/user-attachments/files/20230398/usuario.json)
+> [seguindo.json](https://github.com/user-attachments/files/20230397/seguindo.json)
 
-- `dash_faker.pbix` — Arquivo do Power BI
-- `Historico_Vendas_180_Dias.xlsx` — Dataset simulado
 
 ## 📌 Como Visualizar
 1. Faça o download do arquivo `.pbix`
@@ -43,21 +41,5 @@ Caso tenha dúvidas, sugestões ou queira colaborar, entre em contato:
 [Seu LinkedIn](#)
 
 
-
-
-
-Arquivos abaixo
-
-
-[seguidores.json](https://github.com/user-attachments/files/20230408/seguidores.json)
-[postagens.json](https://github.com/user-attachments/files/20230407/postagens.json)
-[nome_completo.json](https://github.com/user-attachments/files/20230406/nome_completo.json)
-[curtidas.json](https://github.com/user-attachments/files/20230401/curtidas.json)
-[comentarios.json](https://github.com/user-attachments/files/20230400/comentarios.json)
-[bio.json](https://github.com/user-attachments/files/20230399/bio.json)
-[usuario.json](https://github.com/user-attachments/files/20230398/usuario.json)
-[seguindo.json](https://github.com/user-attachments/files/20230397/seguindo.json)
-
-![image]()
 
 
