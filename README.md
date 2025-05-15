@@ -20,4 +20,6 @@ Arquivos abaixo
 [seguindo.json](https://github.com/user-attachments/files/20230397/seguindo.json)
 
 
-![image](https://github.com/user-attachments/assets/f8f9e49b-76a8-4fe1-bed5-7373aa8f856c)
+  
+![image](https://github.com/user-attachments/assets/7b49bb6a-e8ff-4f5f-9e3c-2aaf2706d75e)
+![image](https://github.com/user-attachments/assets/de659c7b-655e-491d-8229-35b5992274e5)
