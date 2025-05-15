@@ -46,8 +46,10 @@ O arquivo principal de visualização é o `dash_faker.pbix`, que contém os gr�
 
 > *(Adicione suas capturas de tela diretamente no repositório ou use links das imagens carregadas no GitHub)*
 
-![Exemplo 1](https://github.com/unknowDgK/Simulacao_Perfil_Instagram/assets/xxx/imagem1.png)
-![Exemplo 2](https://github.com/unknowDgK/Simulacao_Perfil_Instagram/assets/xxx/imagem2.png)
+![Exemplo 1](![image](https://github.com/user-attachments/assets/075f7e90-c06f-4fd4-8996-dc6e99df9f38)
+)
+![Exemplo 2](![image](https://github.com/user-attachments/assets/89810168-3f1e-4e80-9ca6-6887da13edf7)
+)
 
 ---
 
