@@ -21,25 +21,21 @@ Simulação visual de um perfil do Instagram com foco em análise de:
 > 
 ## 🗂️ Arquivos
 
-([./caminho/]([seguidores.json](https://github.com/user-attachments/files/20230408/seguidores.json))
-> [postagens.json](https://github.com/user-attachments/files/20230407/postagens.json)
-> [nome_completo.json](https://github.com/user-attachments/files/20230406/nome_completo.json)
-> [curtidas.json](https://github.com/user-attachments/files/20230401/curtidas.json)
-> [comentarios.json](https://github.com/user-attachments/files/20230400/comentarios.json)
-> [bio.json](https://github.com/user-attachments/files/20230399/bio.json)
-> [usuario.json](https://github.com/user-attachments/files/20230398/usuario.json)
-> [seguindo.json](https://github.com/user-attachments/files/20230397/seguindo.json)
+| Arquivo                                      | Descrição                                                |
+| -------------------------------------------- | -------------------------------------------------------- |
+| [`usuario.json`](./usuario.json)             | Nome de usuário do perfil simulado.                      |
+| [`nome_completo.json`](./nome_completo.json) | Nome completo do perfil.                                 |
+| [`bio.json`](./bio.json)                     | Texto da biografia do perfil.                            |
+| [`seguidores.json`](./seguidores.json)       | Quantidade de seguidores por mês.                        |
+| [`seguindo.json`](./seguindo.json)           | Número de perfis que o usuário está seguindo.            |
+| [`postagens.json`](./postagens.json)         | Dados das postagens feitas (horários, quantidade, etc.). |
+| [`curtidas.json`](./curtidas.json)           | Número de curtidas por postagem.                         |
+| [`comentarios.json`](./comentarios.json)     | Comentários feitos em cada postagem.                     |
 
 
 ## 📌 Como Visualizar
 1. Faça o download do arquivo `.pbix`
 2. Abra com Power BI Desktop
 3. Interaja com os filtros por mês, hora e legenda
-
-## 🤝 Contato
-Caso tenha dúvidas, sugestões ou queira colaborar, entre em contato:
-[Seu LinkedIn](#)
-
-
 
 
